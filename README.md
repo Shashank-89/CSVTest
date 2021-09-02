@@ -1,5 +1,5 @@
 # CSVTest
-Assumptions written in Test 
+Assumptions written in comments on SchemaTest file
 
 
 usage: CSVParser
